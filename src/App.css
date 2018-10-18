@@ -30,3 +30,10 @@
     transform: rotate(360deg);
   }
 }
+.test {
+  background: red;
+}
+
+.img-responsive {
+  margin: 0 auto;
+}
